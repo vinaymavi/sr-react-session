@@ -1,5 +1,5 @@
 # SR-React-Session
-
+Deck - http://slides.com/vinaymavi/reactjs 
 
 ### Owners: 
 Manoj Kumar
@@ -14,3 +14,5 @@ Session have expectation audience would be mix with knowledge could be beginners
 * Event registration and handling 
 * VDOM(Virtual DOM) working 
 * React 16 vs 15 
+
+
