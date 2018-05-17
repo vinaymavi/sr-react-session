@@ -1,6 +1,6 @@
 # SR-React-Session
 Deck - http://slides.com/vinaymavi/reactjs 
-
+Feedback link - http://bit.ly/vm-reactjs 
 ### Owners: 
 * Manoj Kumar
 * Vinay Kumar
