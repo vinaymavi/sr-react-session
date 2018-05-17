@@ -2,8 +2,8 @@
 Deck - http://slides.com/vinaymavi/reactjs 
 
 ### Owners: 
-Manoj Kumar
-Vinay Kumar
+* Manoj Kumar
+* Vinay Kumar
 
 ### Philosophy:
 Session have expectation audience would be mix with knowledge could be beginners and intermediate level, to serve them all we are planning to give a progressive session. 
